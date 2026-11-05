@@ -1,0 +1,32 @@
+{
+  "title": "Buscajuegos: base de datos de juegos de mesa para la intervención en Terapia Ocupacional",
+  "description": "<p>Base de datos de 62 juegos de mesa analizados desde la Terapia Ocupacional: para cada juego, edad, duración y jugadores, y la importancia (0 a 3) de 53 componentes motores, sensorio-perceptivos, cognitivos, psicosociales y emocionales.</p>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Calavia Balduz, José María",
+      "orcid": "0009-0001-7105-2022",
+      "affiliation": "CSEU La Salle (adscrito a la UAM) y Centro Tangram"
+    }
+  ],
+  "license": "cc-by-nc-sa-4.0",
+  "keywords": [
+    "terapia ocupacional",
+    "occupational therapy",
+    "juegos de mesa",
+    "board games",
+    "análisis de la actividad",
+    "activity analysis",
+    "infancia",
+    "intervención"
+  ],
+  "language": "spa",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://centrotangram.com/buscador.html",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}
