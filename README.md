@@ -1,5 +1,7 @@
 # Buscajuegos: base de datos de juegos de mesa para la intervención en Terapia Ocupacional
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23991251.svg)](https://doi.org/10.5281/zenodo.23991251)
+
 Base de datos de 62 juegos de mesa analizados desde la Terapia Ocupacional: para cada juego, edad, duración y jugadores, y la importancia (0 a 3) de 53 componentes motores, sensorio-perceptivos, cognitivos, psicosociales y emocionales.
 
 Versión web: https://centrotangram.com/buscador.html
@@ -25,9 +27,9 @@ Cada juego lo ha analizado un terapeuta ocupacional a partir de su uso en sesió
 
 ## Cómo citar
 
-Calavia Balduz, J. M. (2026). *Buscajuegos: base de datos de juegos de mesa para la intervención en Terapia Ocupacional* (versión 1.0.0) [Conjunto de datos]. Centro Tangram. Zenodo.
+Calavia Balduz, J. M. (2026). *Buscajuegos: base de datos de juegos de mesa para la intervención en Terapia Ocupacional* (versión 1.0.0) [Conjunto de datos]. Centro Tangram. Zenodo. https://doi.org/10.5281/zenodo.23991251
 
-El DOI aparecerá aquí cuando se publique la versión en Zenodo.
+DOI (todas las versiones): [10.5281/zenodo.23991251](https://doi.org/10.5281/zenodo.23991251)
 
 ## Licencia
 
